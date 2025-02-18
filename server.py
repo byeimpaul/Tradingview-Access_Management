@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask,
 from tradingview import TradingView
 import json
 #from threading import Thread

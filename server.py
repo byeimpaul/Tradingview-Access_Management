@@ -61,5 +61,5 @@ def main():
 #   server = Thread(target=run)
 #   server.start()
 
-def start_server():
-  app.run(host='0.0.0.0', port=5000)
+# def start_server():
+#   app.run(host='0.0.0.0', port=5000)
